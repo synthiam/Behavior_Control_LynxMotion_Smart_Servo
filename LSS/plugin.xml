@@ -7,5 +7,5 @@
   <PLUGIN_GUID>4b0d71d2-9675-48f0-a2ef-11b3dd4c8902</PLUGIN_GUID>
   <CATEGORY_TYPE>Servo</CATEGORY_TYPE>
   <DESCRIPTION>Compact, modular actuators which were designed to be an evolution of the standard RC servo for use in multi degree-of-freedom robots, animatronics, custom RC projects and more.</DESCRIPTION>
-  <VersionRelease>1</VersionRelease>
+  <VersionRelease>2</VersionRelease>
 </PluginV1XML>

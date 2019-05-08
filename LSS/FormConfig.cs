@@ -340,9 +340,15 @@ namespace LSS {
         EZBManager.EZBs[0].Uart.UARTExpansionInit(getUARTIndex(), Convert.ToUInt32(tbBaudRate.Text));
 
         {
-          serialWrite(_servoCmds.SendPing(0xfe));
 
-          System.Threading.Thread.Sleep(1000);
+          for (byte id = 0; id < 250; id++) {
+
+            serialWrite(_servoCmds.SendPing(id));
+
+            System.Threading.Thread.Sleep(10);
+          }
+
+          System.Threading.Thread.Sleep(100);
 
           var ret = EZBManager.EZBs[0].Uart.UARTExpansionReadAvailable(getUARTIndex());
 
