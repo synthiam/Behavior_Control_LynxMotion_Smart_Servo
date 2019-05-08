@@ -1,4 +1,4 @@
-# Behavior_Control_LynxMotion_Smart_Servo
+# Behavior Control LynxMotion Smart Servo
 
 The Lynxmotion Smart Servos (LSS) are compact, modular actuators which were designed to be an evolution of the standard servo for use in multi degree-of-freedom robots, animatronics, custom robot projects and more.
 
