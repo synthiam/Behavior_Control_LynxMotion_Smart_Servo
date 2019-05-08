@@ -1,0 +1,14 @@
+C:\Users\Public\Documents\EZ-Builder\Plugins\4b0d71d2-9675-48f0-a2ef-11b3dd4c8902\LSS.dll.config
+C:\Users\Public\Documents\EZ-Builder\Plugins\4b0d71d2-9675-48f0-a2ef-11b3dd4c8902\LSS.dll
+C:\Users\Public\Documents\EZ-Builder\Plugins\4b0d71d2-9675-48f0-a2ef-11b3dd4c8902\LSS.pdb
+C:\My Documents\SVN\Developer - Windows\EZ-Builder Plugins\LynxMotion Smart Servos\Dynamixel\obj\Debug\LSS.csprojAssemblyReference.cache
+C:\My Documents\SVN\Developer - Windows\EZ-Builder Plugins\LynxMotion Smart Servos\Dynamixel\obj\Debug\LSS.FormMain.resources
+C:\My Documents\SVN\Developer - Windows\EZ-Builder Plugins\LynxMotion Smart Servos\Dynamixel\obj\Debug\LSS.FormConfig.resources
+C:\My Documents\SVN\Developer - Windows\EZ-Builder Plugins\LynxMotion Smart Servos\Dynamixel\obj\Debug\LSS.Properties.Resources.resources
+C:\My Documents\SVN\Developer - Windows\EZ-Builder Plugins\LynxMotion Smart Servos\Dynamixel\obj\Debug\LSS.UCServoPort.resources
+C:\My Documents\SVN\Developer - Windows\EZ-Builder Plugins\LynxMotion Smart Servos\Dynamixel\obj\Debug\LSS.csproj.GenerateResource.cache
+C:\My Documents\SVN\Developer - Windows\EZ-Builder Plugins\LynxMotion Smart Servos\Dynamixel\obj\Debug\LSS.csproj.CoreCompileInputs.cache
+C:\My Documents\SVN\Developer - Windows\EZ-Builder Plugins\LynxMotion Smart Servos\Dynamixel\obj\Debug\LSS.dll
+C:\My Documents\SVN\Developer - Windows\EZ-Builder Plugins\LynxMotion Smart Servos\Dynamixel\obj\Debug\LSS.pdb
+C:\Users\Public\Documents\EZ-Builder\Plugins\4b0d71d2-9675-48f0-a2ef-11b3dd4c8902\title.jpg
+C:\Users\Public\Documents\EZ-Builder\Plugins\4b0d71d2-9675-48f0-a2ef-11b3dd4c8902\plugin.xml
